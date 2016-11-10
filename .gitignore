@@ -6,44 +6,44 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff:
-Visual Design/.idea/workspace.xml
-Visual Design/.idea/tasks.xml
+.idea/workspace.xml
+.idea/tasks.xml
 
 # Sensitive or high-churn files:
-Visual Design/.idea/dataSources/
-Visual Design/.idea/dataSources.ids
-Visual Design/.idea/dataSources.xml
-Visual Design/.idea/dataSources.local.xml
-Visual Design/.idea/sqlDataSources.xml
-Visual Design/.idea/dynamic.xml
-Visual Design/.idea/uiDesigner.xml
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
 
 # Gradle:
-Visual Design/.idea/gradle.xml
-Visual Design/.idea/libraries
+.idea/gradle.xml
+.idea/libraries
 
 # Mongo Explorer plugin:
-Visual Design/.idea/mongoSettings.xml
+.idea/mongoSettings.xml
 
 ## File-based project format:
-Visual Design/*.iws
+*.iws
 
 ## Plugin-specific files:
 
 # IntelliJ
-Visual Design//out/
+/out/
 
 # mpeltonen/sbt-idea plugin
-Visual Design/.idea_modules/
+.idea_modules/
 
 # JIRA plugin
-Visual Design/atlassian-ide-plugin.xml
+atlassian-ide-plugin.xml
 
 # Crashlytics plugin (for Android Studio and IntelliJ)
-Visual Design/com_crashlytics_export_strings.xml
-Visual Design/crashlytics.properties
-Visual Design/crashlytics-build.properties
-Visual Design/fabric.properties
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
 
 ### WebStorm Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
